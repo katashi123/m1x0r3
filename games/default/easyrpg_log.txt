@@ -1,0 +1,202 @@
+[2022-06-27 21:50:38] Debug: EasyRPG Player 0.7.0 (git~218@f8f82547, 2022-04-01) started
+[2022-06-27 21:50:38] Debug: ===========================================================
+[2022-06-27 21:50:38] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-06-27 21:50:38] Debug: Seeded the RNG with 1656341438.
+[2022-06-27 21:50:38] Debug: CLI: --project-path content://com.android.externalstorage.documents/tree/primary%3Arpg2k3/document/primary%3Arpg2k3%2Fgames%2FMixOre --save-path content://com.android.externalstorage.documents/tree/primary%3Arpg2k3/document/primary%3Arpg2k3%2Fgames%2FMixOre --encoding auto 
+[2022-06-27 21:50:38] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-06-27 21:50:38] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-06-27 21:50:38] Debug: SDL2: Detected format (1) SDL_PIXELFORMAT_ABGR8888 : rank=(2)
+[2022-06-27 21:50:38] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-06-27 21:50:39] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-06-27 21:50:39] Debug: Game and Save Directory:
+[2022-06-27 21:50:39] Debug: 1: [SAF]  -> com.android.externalstorage.documents/tree/primary%3Arpg2k3/document/primary%3Arpg2k3%2Fgames%2FMixOre
+[2022-06-27 21:50:39] Debug: Loading game Mix Ore
+[2022-06-27 21:50:39] Debug: Game does not need RTP (FullPackageFlag=1)
+[2022-06-27 21:50:39] Debug: Using RPG2k Interpreter
+[2022-06-27 21:50:39] Debug: MP3 file (12go_haito.mp3) found
+[2022-06-27 21:50:39] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2022-06-27 21:50:39] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=false
+[2022-06-27 21:50:39] Debug: Error opening dir : Permission denied
+[2022-06-27 21:50:39] Debug: RTP path /2000 is invalid, not adding
+[2022-06-27 21:50:39] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-06-27 21:50:39] Debug: Cannot find: ./ExFont
+[2022-06-27 21:50:39] Debug: Loading ExFont from RPG_RT.exe
+[2022-06-27 21:50:39] Debug: EXEReader: EXFONT resource found (DE 0xacfd0; 0xb03c4; len 0x2168)
+[2022-06-27 21:50:42] Debug: Changing language to: 'Vietnamese'
+[2022-06-27 21:50:42] Error: Parse error (Line 94): Expected ", got "T": msgstr                    Tôi là đồ ngốc."
+[2022-06-28 08:50:26] Debug: EasyRPG Player 0.7.0 (git~218@f8f82547, 2022-04-01) started
+[2022-06-28 08:50:26] Debug: ===========================================================
+[2022-06-28 08:50:26] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-06-28 08:50:26] Debug: Seeded the RNG with 1656381025.
+[2022-06-28 08:50:26] Debug: CLI: --project-path content://com.android.externalstorage.documents/tree/primary%3Arpg2k3/document/primary%3Arpg2k3%2Fgames%2FMixOre --save-path content://com.android.externalstorage.documents/tree/primary%3Arpg2k3/document/primary%3Arpg2k3%2Fgames%2FMixOre --encoding auto 
+[2022-06-28 08:50:26] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-06-28 08:50:26] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-06-28 08:50:26] Debug: SDL2: Detected format (1) SDL_PIXELFORMAT_ABGR8888 : rank=(2)
+[2022-06-28 08:50:26] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-06-28 08:50:26] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-06-28 08:50:26] Debug: Game and Save Directory:
+[2022-06-28 08:50:26] Debug: 1: [SAF]  -> com.android.externalstorage.documents/tree/primary%3Arpg2k3/document/primary%3Arpg2k3%2Fgames%2FMixOre
+[2022-06-28 08:50:26] Debug: Loading game Mix Ore
+[2022-06-28 08:50:26] Debug: Game does not need RTP (FullPackageFlag=1)
+[2022-06-28 08:50:26] Debug: Using RPG2k Interpreter
+[2022-06-28 08:50:26] Debug: MP3 file (12go_haito.mp3) found
+[2022-06-28 08:50:26] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2022-06-28 08:50:26] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=false
+[2022-06-28 08:50:26] Debug: Error opening dir : Permission denied
+[2022-06-28 08:50:26] Debug: RTP path /2000 is invalid, not adding
+[2022-06-28 08:50:26] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-06-28 08:50:26] Debug: Cannot find: ./ExFont
+[2022-06-28 08:50:26] Debug: Loading ExFont from RPG_RT.exe
+[2022-06-28 08:50:26] Debug: EXEReader: EXFONT resource found (DE 0xacfd0; 0xb03c4; len 0x2168)
+[2022-06-28 08:50:30] Debug: Changing language to: 'Vietnamese'
+[2022-06-28 08:50:30] Error: Parse error (Line 84): Expected ", got "�": Để hít thở một chút không khí trong lành.\""
+[2022-06-28 14:20:52] Debug: EasyRPG Player 0.7.0 (git~218@f8f82547, 2022-04-01) started
+[2022-06-28 14:20:52] Debug: ===========================================================
+[2022-06-28 14:20:52] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-06-28 14:20:52] Debug: Seeded the RNG with 1656400852.
+[2022-06-28 14:20:52] Debug: CLI: --project-path content://com.android.externalstorage.documents/tree/primary%3Arpg2k3/document/primary%3Arpg2k3%2Fgames%2FMixOre --save-path content://com.android.externalstorage.documents/tree/primary%3Arpg2k3/document/primary%3Arpg2k3%2Fgames%2FMixOre --encoding auto 
+[2022-06-28 14:20:52] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-06-28 14:20:52] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-06-28 14:20:52] Debug: SDL2: Detected format (1) SDL_PIXELFORMAT_ABGR8888 : rank=(2)
+[2022-06-28 14:20:52] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-06-28 14:20:52] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-06-28 14:20:52] Debug: Game and Save Directory:
+[2022-06-28 14:20:52] Debug: 1: [SAF]  -> com.android.externalstorage.documents/tree/primary%3Arpg2k3/document/primary%3Arpg2k3%2Fgames%2FMixOre
+[2022-06-28 14:20:53] Debug: Loading game Mix Ore
+[2022-06-28 14:20:53] Debug: Game does not need RTP (FullPackageFlag=1)
+[2022-06-28 14:20:53] Debug: Using RPG2k Interpreter
+[2022-06-28 14:20:53] Debug: MP3 file (12go_haito.mp3) found
+[2022-06-28 14:20:53] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2022-06-28 14:20:53] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=false
+[2022-06-28 14:20:53] Debug: Error opening dir : Permission denied
+[2022-06-28 14:20:53] Debug: RTP path /2000 is invalid, not adding
+[2022-06-28 14:20:53] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-06-28 14:20:53] Debug: Cannot find: ./ExFont
+[2022-06-28 14:20:53] Debug: Loading ExFont from RPG_RT.exe
+[2022-06-28 14:20:53] Debug: EXEReader: EXFONT resource found (DE 0xacfd0; 0xb03c4; len 0x2168)
+[2022-06-28 14:20:56] Debug: Changing language to: 'Vietnamese'
+[2022-06-28 14:20:56] Error: Parse error (Line 17): Expected ", got "n": nhà tôi chơi, vậy nên tôi đã dẫn cô ấy đi."
+[2022-06-28 14:21:51] Debug: EasyRPG Player 0.7.0 (git~218@f8f82547, 2022-04-01) started
+[2022-06-28 14:21:51] Debug: ===========================================================
+[2022-06-28 14:21:51] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-06-28 14:21:51] Debug: Seeded the RNG with 1656400911.
+[2022-06-28 14:21:51] Debug: CLI: --project-path content://com.android.externalstorage.documents/tree/primary%3Arpg2k3/document/primary%3Arpg2k3%2Fgames%2FMixOre --save-path content://com.android.externalstorage.documents/tree/primary%3Arpg2k3/document/primary%3Arpg2k3%2Fgames%2FMixOre --encoding auto 
+[2022-06-28 14:21:51] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-06-28 14:21:51] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-06-28 14:21:51] Debug: SDL2: Detected format (1) SDL_PIXELFORMAT_ABGR8888 : rank=(2)
+[2022-06-28 14:21:51] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-06-28 14:21:52] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-06-28 14:21:52] Debug: Game and Save Directory:
+[2022-06-28 14:21:52] Debug: 1: [SAF]  -> com.android.externalstorage.documents/tree/primary%3Arpg2k3/document/primary%3Arpg2k3%2Fgames%2FMixOre
+[2022-06-28 14:21:52] Debug: Loading game Mix Ore
+[2022-06-28 14:21:52] Debug: Game does not need RTP (FullPackageFlag=1)
+[2022-06-28 14:21:52] Debug: Using RPG2k Interpreter
+[2022-06-28 14:21:52] Debug: MP3 file (12go_haito.mp3) found
+[2022-06-28 14:21:52] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2022-06-28 14:21:52] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=false
+[2022-06-28 14:21:52] Debug: Error opening dir : Permission denied
+[2022-06-28 14:21:52] Debug: RTP path /2000 is invalid, not adding
+[2022-06-28 14:21:52] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-06-28 14:21:52] Debug: Cannot find: ./ExFont
+[2022-06-28 14:21:52] Debug: Loading ExFont from RPG_RT.exe
+[2022-06-28 14:21:52] Debug: EXEReader: EXFONT resource found (DE 0xacfd0; 0xb03c4; len 0x2168)
+[2022-06-28 14:21:56] Debug: Changing language to: 'Vietnamese'
+[2022-06-28 14:21:56] Error: Parse error (Line 345): Unterminated line: "rác rưởi cả.\"
+[2022-06-28 15:16:53] Debug: EasyRPG Player 0.7.0 (git~218@f8f82547, 2022-04-01) started
+[2022-06-28 15:16:53] Debug: ===========================================================
+[2022-06-28 15:16:53] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-06-28 15:16:53] Debug: Seeded the RNG with 1656404213.
+[2022-06-28 15:16:53] Debug: CLI: --project-path content://com.android.externalstorage.documents/tree/primary%3Arpg2k3/document/primary%3Arpg2k3%2Fgames%2FMixOre --save-path content://com.android.externalstorage.documents/tree/primary%3Arpg2k3/document/primary%3Arpg2k3%2Fgames%2FMixOre --encoding auto 
+[2022-06-28 15:16:53] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-06-28 15:16:53] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-06-28 15:16:53] Debug: SDL2: Detected format (1) SDL_PIXELFORMAT_ABGR8888 : rank=(2)
+[2022-06-28 15:16:53] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-06-28 15:16:54] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-06-28 15:16:54] Debug: Game and Save Directory:
+[2022-06-28 15:16:54] Debug: 1: [SAF]  -> com.android.externalstorage.documents/tree/primary%3Arpg2k3/document/primary%3Arpg2k3%2Fgames%2FMixOre
+[2022-06-28 15:16:54] Debug: Loading game Mix Ore
+[2022-06-28 15:16:54] Debug: Game does not need RTP (FullPackageFlag=1)
+[2022-06-28 15:16:54] Debug: Using RPG2k Interpreter
+[2022-06-28 15:16:54] Debug: MP3 file (12go_haito.mp3) found
+[2022-06-28 15:16:54] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2022-06-28 15:16:54] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=false
+[2022-06-28 15:16:54] Debug: Error opening dir : Permission denied
+[2022-06-28 15:16:54] Debug: RTP path /2000 is invalid, not adding
+[2022-06-28 15:16:54] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-06-28 15:16:54] Debug: Cannot find: ./ExFont
+[2022-06-28 15:16:54] Debug: Loading ExFont from RPG_RT.exe
+[2022-06-28 15:16:54] Debug: EXEReader: EXFONT resource found (DE 0xacfd0; 0xb03c4; len 0x2168)
+[2022-06-28 15:16:57] Debug: Changing language to: 'Vietnamese'
+[2022-06-28 15:16:57] Error: Parse error (Line 53): Unterminated line: "cướp từ tôi. Nó sẽ không bao giờ trở lại.\"
+[2022-06-28 15:17:41] Debug: EasyRPG Player 0.7.0 (git~218@f8f82547, 2022-04-01) started
+[2022-06-28 15:17:41] Debug: ===========================================================
+[2022-06-28 15:17:41] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-06-28 15:17:41] Debug: Seeded the RNG with 1656404261.
+[2022-06-28 15:17:41] Debug: CLI: --project-path content://com.android.externalstorage.documents/tree/primary%3Arpg2k3/document/primary%3Arpg2k3%2Fgames%2FMixOre --save-path content://com.android.externalstorage.documents/tree/primary%3Arpg2k3/document/primary%3Arpg2k3%2Fgames%2FMixOre --encoding auto 
+[2022-06-28 15:17:41] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-06-28 15:17:41] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-06-28 15:17:41] Debug: SDL2: Detected format (1) SDL_PIXELFORMAT_ABGR8888 : rank=(2)
+[2022-06-28 15:17:41] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-06-28 15:17:42] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-06-28 15:17:42] Debug: Game and Save Directory:
+[2022-06-28 15:17:42] Debug: 1: [SAF]  -> com.android.externalstorage.documents/tree/primary%3Arpg2k3/document/primary%3Arpg2k3%2Fgames%2FMixOre
+[2022-06-28 15:17:42] Debug: Loading game Mix Ore
+[2022-06-28 15:17:42] Debug: Game does not need RTP (FullPackageFlag=1)
+[2022-06-28 15:17:42] Debug: Using RPG2k Interpreter
+[2022-06-28 15:17:42] Debug: MP3 file (12go_haito.mp3) found
+[2022-06-28 15:17:42] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2022-06-28 15:17:42] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=false
+[2022-06-28 15:17:42] Debug: Error opening dir : Permission denied
+[2022-06-28 15:17:42] Debug: RTP path /2000 is invalid, not adding
+[2022-06-28 15:17:42] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-06-28 15:17:42] Debug: Cannot find: ./ExFont
+[2022-06-28 15:17:42] Debug: Loading ExFont from RPG_RT.exe
+[2022-06-28 15:17:42] Debug: EXEReader: EXFONT resource found (DE 0xacfd0; 0xb03c4; len 0x2168)
+[2022-06-28 15:17:45] Debug: Changing language to: 'Vietnamese'
+[2022-06-28 15:17:46] Error: Parse error (Line 173): Unterminated line: "  đi hẹn hò... yêu nhau... vui đùa cùng nhau.
+[2022-06-28 15:39:09] Debug: EasyRPG Player 0.7.0 (2021-10-29) started
+[2022-06-28 15:39:09] Debug: =========================================
+[2022-06-28 15:39:09] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-06-28 15:39:09] Debug: Seeded the RNG with 1656405549.
+[2022-06-28 15:39:09] Debug: CLI: 
+[2022-06-28 15:39:09] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-06-28 15:39:09] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-06-28 15:39:09] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-06-28 15:39:09] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-06-28 15:39:09] Debug: Game and Save Directory:
+[2022-06-28 15:39:09] Debug: 1: [Native] 
+[2022-06-28 15:39:09] Debug: Loading game Mix Ore
+[2022-06-28 15:39:09] Debug: Game does not need RTP (FullPackageFlag=1)
+[2022-06-28 15:39:09] Debug: Using RPG2k Interpreter
+[2022-06-28 15:39:09] Debug: MP3 file (12go_haito.mp3) found
+[2022-06-28 15:39:09] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2022-06-28 15:39:09] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=false
+[2022-06-28 15:39:09] Debug: Adding C:\Program Files (x86)\RPG Maker AIO\programs\RPG Maker 2000\RTP to RTP path
+[2022-06-28 15:39:09] Debug: RTP is "Official English" (465/465)
+[2022-06-28 15:39:09] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-06-28 15:39:09] Debug: Cannot find: ./ExFont
+[2022-06-28 15:39:09] Debug: Loading ExFont from RPG_RT.exe
+[2022-06-28 15:39:09] Debug: EXEReader: EXFONT resource found (DE 0xacfd0; 0xb03c4; len 0x2168)
+[2022-06-28 15:39:39] Debug: EasyRPG Player 0.7.0 (2021-10-29) started
+[2022-06-28 15:39:39] Debug: =========================================
+[2022-06-28 15:39:39] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2022-06-28 15:39:39] Debug: Seeded the RNG with 1656405579.
+[2022-06-28 15:39:39] Debug: CLI: 
+[2022-06-28 15:39:39] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2022-06-28 15:39:39] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2022-06-28 15:39:39] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2022-06-28 15:39:39] Debug: Detected encoding: ibm-5348_P100-1997
+[2022-06-28 15:39:39] Debug: Game and Save Directory:
+[2022-06-28 15:39:39] Debug: 1: [Native] 
+[2022-06-28 15:39:39] Debug: Loading game Mix Ore
+[2022-06-28 15:39:39] Debug: Game does not need RTP (FullPackageFlag=1)
+[2022-06-28 15:39:39] Debug: Using RPG2k Interpreter
+[2022-06-28 15:39:39] Debug: MP3 file (12go_haito.mp3) found
+[2022-06-28 15:39:39] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2022-06-28 15:39:39] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=false
+[2022-06-28 15:39:39] Debug: Adding C:\Program Files (x86)\RPG Maker AIO\programs\RPG Maker 2000\RTP to RTP path
+[2022-06-28 15:39:39] Debug: RTP is "Official English" (465/465)
+[2022-06-28 15:39:39] Debug: Patch configuration: dynrpg=false maniac=false
+[2022-06-28 15:39:39] Debug: Cannot find: ./ExFont
+[2022-06-28 15:39:39] Debug: Loading ExFont from RPG_RT.exe
+[2022-06-28 15:39:39] Debug: EXEReader: EXFONT resource found (DE 0xacfd0; 0xb03c4; len 0x2168)
