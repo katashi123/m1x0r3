@@ -1,0 +1,242 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 6, Pos (0,0)
+msgid ""
+"Rikana\n"
+"\"I see.\""
+msgstr ""
+"Rikana\n"
+"\"Vậy à.\""
+#. ID 1, Page 1, Line 9, Pos (0,0)
+msgid ""
+"Rikana\n"
+"\"You're pretty disgusting, though, seriously.\n"
+"Could you not look at me?\""
+msgstr ""
+"Rikana\n"
+"\"Cho dù thế thì anh vẫn rất kinh tởm.\n"
+"Anh có thể đừng nhìn tôi với ánh mắt đó, được chứ?\""
+#. ID 1, Page 1, Line 13, Pos (0,0)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"Rikana\n"
+"\"You kinda stink, too. Do you even bathe?\""
+msgstr ""
+"Rikana\n"
+"\"Và anh cũng rất hôi nữa. Anh có tắm không đấy?\""
+#. ID 1, Page 1, Line 17, Pos (0,0)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\"Give me my money back.\"\n"
+"Don't say anything"
+msgstr ""
+"\"Trả lại tiền cho tôi.\"\n"
+"Đừng nói gì cả"
+#. ID 1, Page 1, Line 26, Pos (0,0)
+msgid ""
+"Rikana\n"
+"\"Let me just say this now: I'm not going to return\n"
+"anything you gave me. After all... you\n"
+"gave it to me!\""
+msgstr ""
+"Rikana\n"
+"\"Hãy nghe tôi nói đây: Tôi sẽ không trả lại\n"
+"Bất kỳ thứ gì anh cho tôi. Sau khi...\n"
+"anh đã đưa nó cho tôi!\""
+#. ID 1, Page 1, Line 31, Pos (0,0)
+msgid ""
+"Rikana\n"
+"\"You gave it to me of your own free will.\""
+msgstr ""
+"Rikana\n"
+"\"Anh đã tự nguyện trao nó.\""
+#. ID 1, Page 1, Line 35, Pos (0,0)
+msgid ""
+"Rikana\n"
+"\"When you hand over money to a person, it's best\n"
+"if you think of it as giving them the money\n"
+"for free, like a gift. Hope that helps!\""
+msgstr ""
+"Rikana\n"
+"\"Khi anh trao tiền cho ai đó, tốt hơn\n"
+"anh nên nghĩ là sẽ cho luôn,\n"
+"như là một món quà. Vậy sẽ hay hơn!\""
+#. ID 1, Page 1, Line 41, Pos (0,0)
+msgid ""
+"Rikana\n"
+"\"I'm sure you have it rough and all, but\n"
+"I did too, y'know? Didja know?\""
+msgstr ""
+"Rikana\n"
+"\"Tôi chắc anh đang gặp khó khăn, nhưng\n"
+"mà tôi cũng thế à? Anh hiểu chứ?\""
+#. ID 1, Page 1, Line 45, Pos (0,0)
+msgid ""
+"Rikana\n"
+"\"I've led a preeetty interesting life up\n"
+"until now, all 'cause of my dad's debt.\""
+msgstr ""
+"Rikana\n"
+"\"Tôi đã có một cuộc sống thú vị trước đó cho tới\n"
+"thời điểm hiện tại, tất cả là vì món nợ của bố.\""
+#. ID 1, Page 1, Line 48, Pos (0,0)
+msgid ""
+"Rikana\n"
+"\"It's been a real burden. I used to think,\n"
+"'Why do I have to live like this when\n"
+"it's not even my debt?'\""
+msgstr ""
+"Rikana\n"
+"\"Nó là một gánh nặng thực sự. Tôi đã nghĩ rằng,\n"
+"'Tại sao tôi phải sống cuộc sống như vậy\n"
+"trong khi người mắc nợ không phải là tôi?'\""
+#. ID 1, Page 1, Line 53, Pos (0,0)
+msgid ""
+"Rikana\n"
+"\"So... maybe I just wanted someone else to\n"
+"feel a bit of the pain I went through.\""
+msgstr ""
+"Rikana\n"
+"\"Vậy nên... có lẽ tôi chỉ muốn người khác\n"
+"nếm trải cảm giác đau đớn mà tôi phải trải qua.\""
+#. ID 1, Page 1, Line 57, Pos (0,0)
+msgid ""
+"Rikana\n"
+"\"I wanted to convey to them, 'This is how shitty\n"
+"society is!' or something.\""
+msgstr ""
+"Rikana\n"
+"\"Tôi muốn nói với họ rằng, 'Đây là cách xã hội đối xử\n"
+"tệ bạc với bạn!' hay đại loại thế.\""
+#. ID 1, Page 1, Line 62, Pos (0,0)
+msgid ""
+"Rikana\n"
+"\"But really, I just wanted money. I've been\n"
+"thinking about living on my own.\""
+msgstr ""
+"Rikana\n"
+"\"Nhưng thực sự tôi chỉ muốn tiền. Tôi đã\n"
+"nghĩ về cuộc sống của riêng tôi.\""
+#. ID 1, Page 1, Line 67, Pos (0,0)
+msgid ""
+"Rikana\n"
+"\"Kantarou... was it? You're a guy, so you can make\n"
+"it just fine even if you're broke. ...Well, it'll\n"
+"be tough for both of us, so let's do our best!\""
+msgstr ""
+"Rikana\n"
+"\"Kantarou... đúng không nhỉ? Anh là đàn ông, anh sẽ\n"
+"cảm thấy ổn dù đã không còn gì... Chà, nó sẽ\n"
+"rất khó cho cả hai ta, vậy nên chúng ta hãy cố hết mình!\""
+#. ID 1, Page 1, Line 72, Pos (0,0)
+msgid ""
+"Rikana\n"
+"\"So... good luck, dumbass!\""
+msgstr ""
+"Rikana\n"
+"\"Vậy... chúc may mắn, tên ngốc!\""
+#. ID 1, Page 1, Line 78, Pos (0,0)
+msgid "                 Rikana walked off."
+msgstr "                 Rikana đã rời đi."
+
+#. ID 1, Page 1, Line 80, Pos (0,0)
+msgid "         I simply stood there, dumbfounded."
+msgstr "         Tôi chỉ đơn giản đứng đó chết lặng."
+
+#. ID 1, Page 1, Line 82, Pos (0,0)
+msgid ""
+" Even though she had said those horrible things...\n"
+" Even though she tricked me and stole my money..."
+msgstr ""
+" Dù cô ấy nói những lời kinh khủng đó...\n"
+" Dù cô ấy đã lừa tôi để lấy tiền của tôi..."
+#. ID 1, Page 1, Line 85, Pos (0,0)
+msgid ""
+"     All I could do was watch her from behind\n"
+"                as she walked away."
+msgstr ""
+"     Tất cả những gì tôi có thể làm là quan sát cô ấy\n"
+"                từ phía sau khi cô ấy rời đi."
+#. ID 1, Page 1, Line 88, Pos (0,0)
+msgid "                       I..."
+msgstr "                       Tôi..."
+
+#. ID 1, Page 1, Line 90, Pos (0,0)
+msgid "                 I started walking."
+msgstr "                 Tôi bắt đầu bước đi."
+
+#. ID 1, Page 1, Line 92, Pos (0,0)
+msgid "            I still couldn't believe it."
+msgstr "            Tôi vẫn không thể tin được điều đó."
+
+#. ID 1, Page 1, Line 94, Pos (0,0)
+msgid ""
+"     Had Rikana really gotten involved with me\n"
+"        simply to take the money my parents\n"
+"                    had left me?"
+msgstr ""
+"     Rikana có thực sự là người nhà tôi không\n"
+"        hay đơn giản chỉ đến lấy tiền gia đình tôi\n"
+"                    và rời đi?"
+#. ID 1, Page 1, Line 98, Pos (0,0)
+msgid "            I still believed in Rikana."
+msgstr "            Tôi vẫn tin tưởng vào Rikana."
+
+#. ID 1, Page 1, Line 100, Pos (0,0)
+msgid "          ...I wanted to believe in her."
+msgstr "          ...Tôi muốn tin tưởng vào cô ấy."
+
+#. ID 1, Page 1, Line 102, Pos (0,0)
+msgid ""
+"   Even though she would never come back to me.\n"
+" Even though she would never call me \"bro\" again."
+msgstr ""
+"   Kể cả cô ấy không bao giờ quay lại với tôi.\n"
+" Kể cả cô ấy không gọi tôi là \"anh hai\" nữa."
+#. ID 1, Page 1, Line 105, Pos (0,0)
+msgid ""
+"    \"Don't just run forward without watching\n"
+"            where you're going, stupid!\n"
+"                 It's dangerous!\""
+msgstr ""
+"    \"Đừng chạy về phía trước mà không\n"
+"             nhìn đường chứ, đồ ngốc!\n"
+"                   Nguy hiểm lắm đấy!\""
+#. ID 1, Page 1, Line 109, Pos (0,0)
+msgid ""
+"            I felt as if she would just\n"
+"                 scold me like that."
+msgstr ""
+"            Tôi cảm thấy như cô ấy sẽ\n"
+"                   mắng tôi như vậy."
+#. ID 1, Page 1, Line 113, Pos (0,0)
+msgid "          And I just kept running forward."
+msgstr "          Và tôi cứ tiếp tục chạy về phía trước."
+
+#. ID 1, Page 1, Line 115, Pos (0,0)
+msgid "                 Then it happened."
+msgstr "                 Và chuyện gì tới cũng sẽ tới."
+
+#. ID 1, Page 1, Line 117, Pos (0,0)
+msgid "               I... got hit by a car."
+msgstr "               Tôi... đã bị chiếc xe tông phải."
+
+#. ID 1, Page 1, Line 120, Pos (0,0)
+msgid ""
+"\n"
+"                   I hear sirens."
+msgstr ""
+"\n"
+"                   Tôi nghe thấy tiếng còi hú."
+#. ID 1, Page 1, Line 123, Pos (0,0)
+msgid "          TRUE END: \"Money is Everything\""
+msgstr "          TRUE END: \"Tiền Là Tất Cả\""
+

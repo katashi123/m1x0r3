@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 7, Pos (0,0)
+msgid ""
+"Rikana\n"
+"\"Well then, why don't you just die?\""
+msgstr ""
+"Rikana\n"
+"\"Vậy thì, sao anh không đi chết đi?\""
+#. ID 1, Page 1, Line 13, Pos (0,0)
+msgid ""
+"               Right at that moment,\n"
+"         something inside of me snapped."
+msgstr ""
+"               Ngay tại thời điểm này,\n"
+"         có thứ gì đó trong tôi đã tan vỡ."
+#. ID 1, Page 1, Line 16, Pos (0,0)
+msgid "        I... pushed Rikana into the street."
+msgstr "        Tôi... đẩy Rikana xuống đường."
+
+#. ID 1, Page 1, Line 20, Pos (0,0)
+msgid ""
+"Rikana\n"
+"\"Huh...?\""
+msgstr ""
+
+#. ID 1, Page 1, Line 26, Pos (0,0)
+msgid "                       *WHAM*"
+msgstr "                       *RẦM*"
+
+#. ID 1, Page 1, Line 28, Pos (0,0)
+msgid "           Rikana was run over by a car..."
+msgstr "           Rikana bị một chiếc xe tông trúng..."
+
+#. ID 1, Page 1, Line 30, Pos (0,0)
+msgid "                    ...and died."
+msgstr "                    ...và chết."
+
+#. ID 1, Page 1, Line 32, Pos (0,0)
+msgid "                 I... killed Rikana."
+msgstr "                 Tôi... đã giết Rikana."
+
+#. ID 1, Page 1, Line 34, Pos (0,0)
+msgid ""
+"          When I came back to my senses,\n"
+"                  I was running."
+msgstr ""
+"          Khi tôi định thần lại,\n"
+"               Tôi đã chạy đi."
+#. ID 1, Page 1, Line 37, Pos (0,0)
+msgid ""
+"        I didn't want anyone to suspect me.\n"
+"   It would be bad if there were any witnesses.\n"
+"    If there happened to be any, I'd kill them."
+msgstr ""
+"        Tôi không muốn ai nghi ngờ mình.\n"
+"        Sẽ rất tệ nếu ở đó có nhân chứng.\n"
+"                 Nếu có thì, tôi sẽ giết họ."
+#. ID 1, Page 1, Line 41, Pos (0,0)
+msgid ""
+"      ...Those thoughts ran through my mind\n"
+"         as I sprinted as fast as I could."
+msgstr ""
+"      ...Những dòng suy nghĩ chạy qua tâm trí tôi\n"
+"       trong khi tôi chạy nhanh hết sức có thể."
+#. ID 1, Page 1, Line 44, Pos (0,0)
+msgid ""
+"      I wondered how long I had been running,\n"
+"      but I wasn't about to let my legs stop."
+msgstr ""
+"      Tôi không biết tôi đã chạy bao lâu rồi,\n"
+"nhưng tôi không muốn đôi chân này dừng lại."
+#. ID 1, Page 1, Line 47, Pos (0,0)
+msgid ""
+"             A dazzling light filled\n"
+"               my field of vision."
+msgstr ""
+"             Một ánh sáng chói lọi\n"
+"        đã chắn đi tầm nhìn của tôi."
+#. ID 1, Page 1, Line 50, Pos (0,0)
+msgid "        The light was coming from... a car."
+msgstr "        Ánh sáng đến từ... một chiếc ô tô."
+
+#. ID 1, Page 1, Line 52, Pos (0,0)
+msgid "                   I was a fool."
+msgstr "                   Tôi là đồ ngốc."
+
+#. ID 1, Page 1, Line 54, Pos (0,0)
+msgid ""
+"      Both before and after losing my memory,\n"
+"              I was a fool, I thought."
+msgstr ""
+"      Dù là trước hay sau khi bị mất trí nhớ,\n"
+"                 tôi nghĩ tôi là đồ ngốc."
+#. ID 1, Page 1, Line 57, Pos (0,0)
+msgid ""
+"               Rikana... I'm sorry.\n"
+"          I'll be there to see you soon."
+msgstr ""
+"               Rikana... anh xin lỗi.\n"
+"     Anh sẽ tới đó để gặp em sớm thôi."
+#. ID 1, Page 1, Line 61, Pos (0,0)
+msgid "                BAD END: \"Together\""
+msgstr "                BAD END: \"Cùng Nhau\""
+

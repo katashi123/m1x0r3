@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 6, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"...You're right.\""
+msgstr ""
+"Nagisa\n"
+"\"...Anh nói phải.\""
+#. ID 1, Page 1, Line 9, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"I was just thinking the same thing.\""
+msgstr ""
+"Nagisa\n"
+"\"Em cũng đang nghĩ vậy.\""
+#. ID 1, Page 1, Line 12, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"I think your support helped me make up my mind.\""
+msgstr ""
+"Nagisa\n"
+"\"Em nghĩ với sự giúp đỡ của anh đã giúp em"
+"đưa ra quyết định.\""
+#. ID 1, Page 1, Line 16, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"I'm sorry... for everything. I... don't think\n"
+"I have much of a reason to live anymore.\""
+msgstr ""
+"Nagisa\n"
+"\"Em xin lỗi... vì tất cả. Em... không nghĩ là\n"
+"em còn lý do để sống tiếp nữa.\""
+#. ID 1, Page 1, Line 21, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"Thank you, Kantarou...\""
+msgstr ""
+"Nagisa\n"
+"\"Cảm ơn anh, Kantarou...\""
+#. ID 1, Page 1, Line 25, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"I love you.\""
+msgstr ""
+"Nagisa\n"
+"\"Em yêu anh.\""
+#. ID 1, Page 1, Line 28, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"It was only for a short while, but being able\n"
+"to be your girlfriend...\""
+msgstr ""
+"Nagisa\n"
+"\"Dù chỉ trong một thời gian ngắn, nhưng\n"
+"trở thành bạn gái anh...\""
+#. ID 1, Page 1, Line 33, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"...made me happy.\""
+msgstr ""
+"Nagisa\n"
+"\"...đã khiến em rất hạnh phúc.\""
+#. ID 1, Page 1, Line 38, Pos (0,0)
+msgid "                    Suddenly..."
+msgstr "                    Đột nhiên..."
+
+#. ID 1, Page 1, Line 40, Pos (0,0)
+msgid ""
+"              Nagisa thrust a knife\n"
+"                into her stomach."
+msgstr ""
+"              Nagisa rút dao đâm\n"
+"                vào bụng cô ấy."
+#. ID 1, Page 1, Line 43, Pos (0,0)
+msgid "               It wasn't just once."
+msgstr "               Không chỉ một lần."
+
+#. ID 1, Page 1, Line 45, Pos (0,0)
+msgid "                  Over and over..."
+msgstr "                  Mà là rất nhiều lần..."
+
+#. ID 1, Page 1, Line 47, Pos (0,0)
+msgid ""
+"           A river of deep crimson blood\n"
+"             spilled out of her body."
+msgstr ""
+"           Dòng máu đỏ thẫm đang\n"
+"           tuôn trào từ cơ thể cô ấy."
+#. ID 1, Page 1, Line 50, Pos (0,0)
+msgid ""
+"    And then, she finally ran out of strength\n"
+"           and toppled onto the floor."
+msgstr ""
+"    Và sau đó, cô ấy đã cạn kiệt sức lực\n"
+"               và nằm gục xuống sàn."
+#. ID 1, Page 1, Line 53, Pos (0,0)
+msgid ""
+"            I was stunned by the scene\n"
+"               unfolding before me."
+msgstr ""
+"            Tôi đã bị sốc trước cảnh tượng\n"
+"               đanh diễn ra trước mắt tôi."
+#. ID 1, Page 1, Line 56, Pos (0,0)
+msgid ""
+"         My hands and feet were trembling.\n"
+"               I couldn't even move."
+msgstr ""
+"         Tay và chân tôi bắt đầu run rẩy.\n"
+"                   Cơ thể tôi cứng đờ."
+#. ID 1, Page 1, Line 59, Pos (0,0)
+msgid ""
+"       All I could do was watch Nagisa die\n"
+"              right in front of me."
+msgstr ""
+"       Những gì tôi có thể làm là chứng kiến\n"
+"              cảnh Nagisa chết trước mặt tôi."
+#. ID 1, Page 1, Line 62, Pos (0,0)
+msgid "      There was no way to stop or help her."
+msgstr "      Không có cách nào để ngăn hay giúp cô ấy."
+
+#. ID 1, Page 1, Line 64, Pos (0,0)
+msgid "                   I was a fool."
+msgstr "                  Tôi đúng là đồ ngốc."
+
+#. ID 1, Page 1, Line 66, Pos (0,0)
+msgid ""
+"      Both before and after losing my memory,\n"
+"          I was a spineless piece of trash."
+msgstr ""
+"          Kể cả trước và sau khi mất ký ức,\n"
+"Tôi chỉ là tên rác rưởi không hơn không kém."
+#. ID 1, Page 1, Line 69, Pos (0,0)
+msgid ""
+"          ...My room had been painted red\n"
+"         with the blood of Nagisa and Sanae."
+msgstr ""
+"          ...Căn phòng tôi tràn ngập màu đỏ thẫm\n"
+"         với máu của Nagisa và Sanae."
+#. ID 1, Page 1, Line 72, Pos (0,0)
+msgid ""
+"           Nagisa's lifeless eyes simply\n"
+"                   stared at me."
+msgstr ""
+"           Đôi mắt vô hồn của Nagisa\n"
+"                   nhìn chằm chằm vào tôi."
+#. ID 1, Page 1, Line 76, Pos (0,0)
+msgid "\"You... loved me.\""
+msgstr "\"Em... yêu tôi.\""
+
+#. ID 1, Page 1, Line 79, Pos (0,0)
+msgid ""
+"         Despite being drenched in blood,\n"
+"          having died the way she did..."
+msgstr ""
+"         Dù đẫm máu, nhưng cô ấy đã chết,\n"
+"        giống với những gì cô ấy đã gây ra..."
+#. ID 1, Page 1, Line 84, Pos (0,0)
+msgid "\"I think I might love you too.\""
+msgstr "\"Anh nghĩ anh cũng yêu em mất rồi.\""
+
+#. ID 1, Page 1, Line 87, Pos (0,0)
+msgid "                Nagisa was smiling."
+msgstr "                Nagisa đã mỉm cười"
+
+#. ID 1, Page 1, Line 89, Pos (0,0)
+msgid "              BAD END: \"Nagisa's Smile\""
+msgstr "              BAD END: \"Nụ Cười Của Nagisa\""
+

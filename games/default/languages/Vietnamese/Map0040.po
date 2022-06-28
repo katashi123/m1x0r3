@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 7, Pos (0,0)
+#. Choice (2 options)
+msgid ""
+"You're lying.\n"
+"You're the stalker."
+msgstr ""
+"Cô đã nói dối.\n"
+"Cô chính là kẻ bám đuôi."
+#. ID 1, Page 1, Line 16, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"Why...? Why would you say something like that?\""
+msgstr ""
+"Nagisa\n"
+"\"Tại sao...? Tại sao anh lại nói những lời như thế?\""
+#. ID 1, Page 1, Line 19, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"You're awful!\""
+msgstr ""
+"Nagisa\n"
+"\"Anh đúng là đồ tồi!\""
+#. ID 1, Page 1, Line 22, Pos (0,0)
+#. ID 1, Page 1, Line 78, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"I...\""
+msgstr ""
+"Nagisa\n"
+"\"Em...\""
+#. ID 1, Page 1, Line 26, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"I'm... the stalker? Is that what you're saying?\""
+msgstr ""
+"Nagisa\n"
+"\"Em... là kẻ bám đuôi ư? Anh vừa nói vậy ư?\""
+#. ID 1, Page 1, Line 29, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"That's WRONG!!\""
+msgstr ""
+"Nagisa\n"
+"\"KHÔNG PHẢI!!\""
+#. ID 1, Page 1, Line 32, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"I'm YOUR GIRLFRIEND!!\""
+msgstr ""
+"Nagisa\n"
+"\"Em chính là BẠN GÁI ANH!!\""
+#. ID 1, Page 1, Line 35, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"She... SHE'S the stalker! You don't remember\n"
+"anything! You're just talking CRAZY!\""
+msgstr ""
+"Nagisa\n"
+"\"Cô ta... CÔ TA mới là kẻ bám đuôi! Anh không nhớ\n"
+"gì cả! Anh chỉ đang nói NHẢM thôi!\""
+#. ID 1, Page 1, Line 40, Pos (0,0)
+#. Choice (2 options)
+msgid ""
+"My girlfriend is Sanae.\n"
+"You're not my girlfriend."
+msgstr ""
+"Bạn gái tôi là Sanae.\n"
+"Cô không phải bạn gái tôi."
+#. ID 1, Page 1, Line 48, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"NOOOOO!!\""
+msgstr ""
+"Nagisa\n"
+"\"KHÔNGGG!!\""
+#. ID 1, Page 1, Line 51, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"That's WROOONG!! You and I are going out!\""
+msgstr ""
+"Nagisa\n"
+"\"KHÔNGGG PHẢIIII!! Em với anh đang hẹn hò!\""
+#. ID 1, Page 1, Line 55, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"AAAAAHHH! You're wrong... you're wrong!\""
+msgstr ""
+"Nagisa\n"
+"\"AAAAAHHH! Anh sai rồi... anh sai rồi!\""
+#. ID 1, Page 1, Line 61, Pos (0,0)
+msgid "Nagisa broke down crying."
+msgstr "Nagisa gục xuống khóc"
+
+#. ID 1, Page 1, Line 62, Pos (0,0)
+msgid "Large tears rolled down her cheeks."
+msgstr "Những giọt nước mắt lăn dài trên má cô ấy"
+
+#. ID 1, Page 1, Line 66, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"Uuugh... wrong... you're wrong...\""
+msgstr ""
+"Nagisa\n"
+"\"Uuugh... sai rồi... anh sai rồi...\""
+#. ID 1, Page 1, Line 69, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"I... I love you, Kantarou...\""
+msgstr ""
+"Nagisa\n"
+"\"Em... em yêu anh, Kantarou...\""
+#. ID 1, Page 1, Line 72, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"Love...\""
+msgstr ""
+"Nagisa\n"
+"\"Yêu...\""
+#. ID 1, Page 1, Line 75, Pos (0,0)
+#. ID 1, Page 1, Line 81, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"...\""
+msgstr ""
+
+#. ID 1, Page 1, Line 84, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"...will die.\""
+msgstr ""
+"Nagisa\n"
+"\"...cho dù phải chết.\""
+#. ID 1, Page 1, Line 87, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"I'm fine with dying if it's for your sake.\""
+msgstr ""
+"Nagisa\n"
+"\"Em sẽ hy sinh vì lợi ích của anh.\""
+#. ID 1, Page 1, Line 91, Pos (0,0)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"Nagisa\n"
+"\"...Would I be better off dead?\""
+msgstr ""
+"Nagisa\n"
+"\"...Em chết đi sẽ tốt hơn sao?\""
+#. ID 1, Page 1, Line 95, Pos (0,0)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yeah, you should die.\n"
+"Don't die."
+msgstr ""
+"Ừm, cô nên chết đi.\n"
+"Đừng nghĩ quẩn."

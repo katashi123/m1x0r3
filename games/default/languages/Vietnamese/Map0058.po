@@ -1,0 +1,259 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 3, Pos (14,4)
+#. ID 1, Page 2, Line 3, Pos (14,4)
+msgid ""
+"Bunny\n"
+"\"I offer my save point services\n"
+"throughout the nation!\""
+msgstr ""
+"Thỏ Bông\n"
+"\"Tôi cung cấp điểm lưu\n"
+"xuyên suốt trò chơi!\""
+#. ID 1, Page 1, Line 6, Pos (14,4)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"Bunny\n"
+"\"Care to save?\""
+msgstr ""
+"Thỏ Bông\n"
+"\"Bạn muốn lưu chứ?\""
+#. ID 1, Page 1, Line 9, Pos (14,4)
+#. Choice (2 options, embedded in a message)
+#. ID 8, Page 2, Line 11, Pos (14,6)
+#. Choice (2 options, embedded in a message)
+#. ID 10, Page 2, Line 4, Pos (6,6)
+#. Choice (2 options, embedded in a message)
+#. ID 10, Page 3, Line 4, Pos (6,6)
+#. Choice (2 options, embedded in a message)
+#. ID 10, Page 4, Line 4, Pos (6,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Có\n"
+"Không"
+#. ID 1, Page 2, Line 6, Pos (14,4)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"Bunny\n"
+"\"Do you like Ayano?\""
+msgstr ""
+"Thỏ Bông\n"
+"\"Cậu có thích Ayano không?\""
+#. ID 1, Page 2, Line 10, Pos (14,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes.\n"
+"No."
+msgstr ""
+"Có\n"
+"Không"
+#. ID 1, Page 2, Line 13, Pos (14,4)
+msgid ""
+"Bunny\n"
+"\"What a coincidence! I do too!\""
+msgstr ""
+"Thỏ Bông\n"
+"\"Thật trùng hợp! Tôi cũng thế!\""
+#. ID 1, Page 2, Line 15, Pos (14,4)
+msgid ""
+"Bunny\n"
+"\"I think Ayano's the cutest!\""
+msgstr ""
+"Thỏ Bông\n"
+"\"Tôi nghĩ Ayano là người dễ thương nhất!\""
+#. ID 1, Page 2, Line 20, Pos (14,4)
+msgid ""
+"Bunny\n"
+"\"Hmm...\""
+msgstr ""
+
+#. ID 2, Page 1, Line 3, Pos (7,3)
+msgid "It looks like it's raining outside."
+msgstr "Có vẻ ngoài trời đang mưa"
+
+#. ID 2, Page 1, Line 4, Pos (7,3)
+msgid ""
+"My sullen face is reflected\n"
+"in the window."
+msgstr ""
+"Gương mặt ủ rũ của tôi\n"
+"đang phản chiếu trên cửa sổ."
+#. ID 2, Page 1, Line 6, Pos (7,3)
+msgid "...I think I might be pretty handsome."
+msgstr "...Tôi nghĩ là tôi khá đẹp trai"
+
+#. ID 3, Page 1, Line 3, Pos (7,5)
+msgid ""
+"A table that's rather stylish\n"
+"for being in a hospital."
+msgstr ""
+"Một cái bàn khá hợp\n"
+"phong cách bệnh viện."
+#. ID 4, Page 1, Line 3, Pos (5,3)
+msgid ""
+"The clock is ticking away\n"
+"as time passes."
+msgstr ""
+"Đồng hồ đang chạy\n"
+"như thời gian đang trôi."
+#. ID 5, Page 1, Line 3, Pos (11,3)
+msgid "There's a hallway beyond this door."
+msgstr "Có một hành lang phía sau cánh cửa này."
+
+#. ID 5, Page 1, Line 4, Pos (11,3)
+msgid ""
+"The lights have already been turned\n"
+"off. I probably shouldn't go out."
+msgstr ""
+"Bây giờ đèn đã tắt rồi.\n"
+"Có lẽ tôi không nên ra ngoài."
+#. ID 6, Page 1, Line 3, Pos (12,3)
+msgid "There's a nameplate here."
+msgstr "Có bảng tên ở đây."
+
+#. ID 6, Page 1, Line 4, Pos (12,3)
+msgid "\"Mr. Kantarou\""
+msgstr "\"Ngài Kantarou\""
+
+#. ID 7, Page 1, Line 3, Pos (13,6)
+#. ID 7, Page 2, Line 3, Pos (13,6)
+msgid "It's a chest of drawers."
+msgstr "Đó là một ngăn kéo"
+
+#. ID 7, Page 1, Line 4, Pos (13,6)
+#. ID 7, Page 2, Line 4, Pos (13,6)
+msgid ""
+"Looking at it more closely shows\n"
+"it's not simply a chest of drawers.\n"
+"It's had a refrigerator integrated\n"
+"with it."
+msgstr ""
+"Nhìn kỹ hơn thì nhận ra là\n"
+"nó không chỉ đơn thuần là ngăn kéo.\n"
+"nó còn tích hợp cả tủ lạnh\n"
+#. ID 7, Page 1, Line 8, Pos (13,6)
+#. ID 7, Page 2, Line 8, Pos (13,6)
+msgid ""
+"Inside is the cafe au lait\n"
+"Ayano bought for me."
+msgstr ""
+"Bên trong là cafe au lait\n"
+"do Ayano mua cho mình."
+#. ID 7, Page 2, Line 10, Pos (13,6)
+#. ID 8, Page 2, Line 8, Pos (14,6)
+msgid "...Hmm?"
+msgstr ""
+
+#. ID 7, Page 2, Line 11, Pos (13,6)
+msgid ""
+"There are explicit photos inside\n"
+"one of the drawers."
+msgstr ""
+"Có vài tấm ảnh khiêu dâm\n"
+"bên trong ngăn kéo."
+#. ID 7, Page 2, Line 13, Pos (13,6)
+msgid ""
+"There are quite a few of them.\n"
+"They seem to all be of the\n"
+"same girl."
+msgstr ""
+"Có khá nhiều tấm.\n"
+"Nhưng có vẻ chúng đều chụp cùng\n"
+"một cô gái."
+#. ID 7, Page 2, Line 16, Pos (13,6)
+msgid ""
+"I can't really make out her face,\n"
+"but she seems cute."
+msgstr ""
+"Tôi không nhìn ra gương mặt cô ấy,\n"
+"nhưng cô ấy trông thật dễ thương."
+#. ID 7, Page 2, Line 18, Pos (13,6)
+msgid "I wonder who took them."
+msgstr "Không biết ai đã chụp nó nhỉ."
+
+#. ID 7, Page 2, Line 19, Pos (13,6)
+msgid "...Now I'm kind of turned on."
+msgstr "...Giờ tôi cảm thấy rất kích thích."
+
+#. ID 8, Page 1, Line 3, Pos (14,6)
+#. ID 8, Page 2, Line 3, Pos (14,6)
+msgid "It's a closet."
+msgstr "Ngăn kéo tủ"
+
+#. ID 8, Page 1, Line 4, Pos (14,6)
+#. ID 8, Page 2, Line 4, Pos (14,6)
+msgid ""
+"There are clothes and a coat\n"
+"hanging in there. Maybe\n"
+"they're mine?"
+msgstr ""
+"Có quần áo và áo khoác\n"
+"treo ở đây. Có lẽ chúng\n"
+"là của mình chăng?"
+#. ID 8, Page 2, Line 7, Pos (14,6)
+msgid "There are some shoes, too."
+msgstr "Ở đây cũng có vài đôi giày nữa."
+
+#. ID 8, Page 2, Line 9, Pos (14,6)
+msgid "There's a thumbtack in one of them."
+msgstr "Trong số chúng bị ghim kim bấm."
+
+#. ID 8, Page 2, Line 10, Pos (14,6)
+#. Contains choice at line 2 (2 options)
+msgid "Take it out?"
+msgstr "Lấy nó ra?"
+
+#. ID 8, Page 2, Line 15, Pos (14,6)
+msgid "...It won't come out."
+msgstr "...Nó không hề nhúc nhích."
+
+#. ID 8, Page 2, Line 16, Pos (14,6)
+msgid "It seems like it's been glued down."
+msgstr "Có vẻ như nó đã bị dán dính chặt rồi."
+
+#. ID 8, Page 2, Line 17, Pos (14,6)
+msgid ""
+"Someone really went out of their way\n"
+"for this prank."
+msgstr ""
+"Có vẻ ai đó đã ra tay\n"
+"để chơi khăm."
+#. ID 8, Page 2, Line 19, Pos (14,6)
+msgid ""
+"I wonder who did it. Whoever it was,\n"
+"they've succeeded in pissing me off."
+msgstr ""
+"Không biết là ai nhỉ. Dù là ai đi nữa,\n"
+"họ cũng thành công trong việc chọc tức tôi."
+#. ID 9, Page 1, Line 3, Pos (8,5)
+msgid "It's a chair."
+msgstr "Một cái ghế."
+
+#. ID 9, Page 1, Line 4, Pos (8,5)
+msgid "Ayano was sitting here."
+msgstr "Ayano đã ngồi đây."
+
+#. ID 10, Page 1, Line 3, Pos (6,6)
+msgid "I'm not sleepy yet."
+msgstr "Mình vẫn chưa buồn ngủ."
+
+#. ID 10, Page 2, Line 3, Pos (6,6)
+#. Contains choice at line 2 (2 options)
+#. ID 10, Page 3, Line 3, Pos (6,6)
+#. Contains choice at line 2 (2 options)
+#. ID 10, Page 4, Line 3, Pos (6,6)
+#. Contains choice at line 2 (2 options)
+msgid "Should I go to sleep already?"
+msgstr "Mình có nên ngủ một giấc không?"
+
