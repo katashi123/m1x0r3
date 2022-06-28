@@ -1,0 +1,250 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 4, Pos (0,0)
+msgid "I arrived at our \"memory spot\"."
+msgstr "Tôi đã đến \"nơi kỷ niệm\" của chúng tôi."
+
+#. ID 1, Page 1, Line 6, Pos (0,0)
+msgid "My room was... different than usual."
+msgstr "Phòng của tôi... trông khác so với mọi khi"
+
+#. ID 1, Page 1, Line 8, Pos (0,0)
+msgid ""
+"The first thing that entered\n"
+"my field of view was red."
+msgstr ""
+"Điều đầu tiên đập vào mắt tôi\n"
+"là một màu đỏ thẫm."
+#. ID 1, Page 1, Line 11, Pos (0,0)
+#. Contains choice at line 2 (3 options)
+msgid "Fresh blood... a person's blood."
+msgstr "Mùi máu tươi... là máu người."
+
+#. ID 1, Page 1, Line 21, Pos (0,0)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"UWAAAAAAAAH!\n"
+"Sanae!!\n"
+"Muh Sanae's ded!"
+msgstr ""
+"UWAAAAAAAAH!\n"
+"Sanae!!\n"
+"Muh Sanae's đã chết!"
+#. ID 1, Page 1, Line 32, Pos (0,0)
+msgid ""
+"...It was Sanae. Sanae Cocoaulait was lying\n"
+"on the floor, covered in blood."
+msgstr ""
+"...Đó là Sanae. Sanae Cocoaulait đang nằm\n"
+"trên sàn, trên một vũng máu."
+#. ID 1, Page 1, Line 37, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"Is something wrong, Kantarou? Why did you\n"
+"yell so loudly just now?\""
+msgstr ""
+"Nagisa\n"
+"\"Có chuyện gì thế, Kantarou?\n"
+"Sao anh lại hét to thế?\""
+#. ID 1, Page 1, Line 41, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"You really surprised me! Is there\n"
+"something on your mind?\""
+msgstr ""
+"Nagisa\n"
+"\"Ngạc nhiên thật đấy!\n"
+"Anh đang lo sợ điều gì à?\""
+#. ID 1, Page 1, Line 47, Pos (0,0)
+#. Choice (2 options)
+msgid ""
+"Sanae đã chết!\n"
+"Là em làm sao?"
+msgstr ""
+
+#. ID 1, Page 1, Line 55, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"Hmm? Oh, this?\""
+msgstr ""
+"Nagisa\n"
+"\"Hmm? Oh, thứ này à?\""
+#. ID 1, Page 1, Line 59, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"Yeah, I did it! Well? What do you think?\n"
+"Great, isn't it?\""
+msgstr ""
+"Nagisa\n"
+"\"Ừm, em làm đấy! Thì sao? Anh thấy sao?\n"
+"Em có giỏi không?\""
+#. ID 1, Page 1, Line 69, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"'Sanae Cocoaulait', was it? She was kind of\n"
+"annoying, so I made it so she couldn't\n"
+"talk anymore!\""
+msgstr ""
+"Nagisa\n"
+"\"Là 'Sanae Cocoaulait' nhỉ? Cô ta khá là\n"
+"phiền, nên em đã khiến cho cô ta\n"
+"im lặng mãi mãi!\""
+#. ID 1, Page 1, Line 74, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"Mmfufu. Kantarou, it must have been a real\n"
+"burden being followed around by her, huh?\""
+msgstr ""
+"Nagisa\n"
+"\"Mmfufu. Kantarou, chắc hẳn anh cảm thấy\n"
+"áp lực khi bị cô ta bám đuôi, nhỉ?\""
+#. ID 1, Page 1, Line 78, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"You were scared, weren't you? But now it's okay!\n"
+"I'm sure she'll never walk or talk ever again!\""
+msgstr ""
+"Nagisa\n"
+"\"Anh đã rất hoảng sợ nhỉ? Nhưng giờ không sao rồi!\n"
+"Em chắc chắn cô ta không thể nói chuyện hay đi lại nữa!\""
+#. ID 1, Page 1, Line 82, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"I was finally able to protect you! Aren't I\n"
+"a good girl?\""
+msgstr ""
+"Nagisa\n"
+"\"Cuối cùng em cũng có thể bảo vệ anh! Em là\n"
+"một cô gái tuyệt vời đúng không?\""
+#. ID 1, Page 1, Line 87, Pos (0,0)
+#. Choice (2 options)
+msgid ""
+"Good girl!\n"
+"Murder is a bit much..."
+msgstr ""
+"Tốt lắm!\n"
+"Giết người có hơi quá..."
+#. ID 1, Page 1, Line 91, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"I know, right? I worked super hard! Of course\n"
+"I did good!\""
+msgstr ""
+"\"Biết ngay mà? Em cố gắng hết mìng! Tất nhiên\n"
+"em phải làm tốt rồi!\""
+#. ID 1, Page 1, Line 100, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"...\""
+msgstr ""
+
+#. ID 1, Page 1, Line 103, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"Hey, Kantarou. Now there's no one to get\n"
+"in our way.\""
+msgstr ""
+"Nagisa\n"
+"\"Này, Kantarou. Kể từ giờ sẽ không có ai xen vào\n"
+"giữa hai chúng ta nữa.\""
+#. ID 1, Page 1, Line 107, Pos (0,0)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"Nagisa\n"
+"\"So... marry me!\""
+msgstr ""
+"Nagisa\n"
+"\"Vậy nên... hãy cưới em nha!\""
+#. ID 1, Page 1, Line 111, Pos (0,0)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"I'll start the preparations.\n"
+"Heeeeeeeeell NO!"
+msgstr ""
+"Anh sẽ sắp xếp.\n"
+"KHÔNGGGG!"
+#. ID 1, Page 1, Line 115, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"Really!? I'm... I'm so happy!\""
+msgstr ""
+"Nagisa\n"
+"\"Thật ư!? Em... em hạnh phúc lắm!\""
+#. ID 1, Page 1, Line 121, Pos (0,0)
+msgid ""
+"Nagisa\n"
+"\"Why? I'm not going to let you say\n"
+"you don't want to.\""
+msgstr ""
+"Nagisa\n"
+"\"Tại sao? Em sẽ không để anh nói\n"
+"là anh không muốn.\""
+#. ID 1, Page 1, Line 131, Pos (0,0)
+msgid "I... remembered."
+msgstr "Tôi... đã nhớ ra."
+
+#. ID 1, Page 1, Line 133, Pos (0,0)
+msgid ""
+"My memory was slowly piecing itself back together\n"
+"inside my head, bit by bit."
+msgstr ""
+"Các mảnh ký ức bắt đầu dần ghép lại\n"
+"trong đầu tôi, từng chút một."
+#. ID 1, Page 1, Line 136, Pos (0,0)
+msgid "But something's... off..."
+msgstr "Nhưng... vẫn thiếu gì đó..."
+
+#. ID 1, Page 1, Line 138, Pos (0,0)
+msgid "That's it."
+msgstr "Chính là nó."
+
+#. ID 1, Page 1, Line 145, Pos (0,0)
+msgid ""
+"That's it...! The person I gave my first kiss\n"
+"to in this spot... wasn't Nagisa."
+msgstr ""
+"Chính là nó...! Người tôi trao nụ hôn đầu\n"
+"ở nơi này... không phải là Nagisa."
+#. ID 1, Page 1, Line 148, Pos (0,0)
+msgid "It was Sanae."
+msgstr "Mà chính là Sanae"
+
+#. ID 1, Page 1, Line 150, Pos (0,0)
+msgid ""
+"If my regained memories are correct, everything\n"
+"Nagisa has told me is the complete opposite\n"
+"of the truth."
+msgstr ""
+"Nếu những gì tôi nhớ là đúng thì những lời\n"
+"Nagisa nói với tôi hoàn toàn\n"
+"không phải sự thật."
+#. ID 1, Page 1, Line 154, Pos (0,0)
+msgid ""
+"My girlfriend was Sanae.\n"
+"Nagisa was the stalker."
+msgstr ""
+"Bạn gái tôi mới là Sanae.\n"
+"Nagisa chính là kẻ bám đuôi."
+#. ID 1, Page 1, Line 157, Pos (0,0)
+msgid ""
+"I don't know why she's told me all the things she\n"
+"has. It doesn't seem like she's simply lying."
+msgstr ""
+"Tôi không biết tại sao cô ấy nói những điều về chính\n"
+"bản thân cô ấy. Có vẻ như cô ấy không đơn thuần\n"
+"chỉ là nói dối"
+#. ID 1, Page 1, Line 160, Pos (0,0)
+msgid ""
+"Was she trying to implant memories in my mind\n"
+"that were more convenient for her...?"
+msgstr ""
+"Có phải cô ấy đang cố cấy ký ức vào đầu tôi\n"
+"để thuận tiện hơn cho cô ấy không...?"
