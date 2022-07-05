@@ -131,7 +131,6 @@ msgstr "\"Ngài Kantarou\""
 msgid "It's a chest of drawers."
 msgstr "Đó là một cái tủ nhiều ngăn."
 
-#. ID 7, Page 1, Line 4, Pos (13,6)
 #. ID 7, Page 2, Line 4, Pos (13,6)
 msgid ""
 "Looking at it more closely shows\n"
@@ -141,7 +140,7 @@ msgid ""
 msgstr ""
 "Nhìn kỹ hơn thì nhận ra là\n"
 "nó không chỉ đơn thuần là tủ nhiều\n"
-"ngăn. Nó còn tích hợp cả tủ lạnh.\"
+"ngăn. Nó còn tích hợp cả tủ lạnh."
 #. ID 7, Page 1, Line 8, Pos (13,6)
 #. ID 7, Page 2, Line 8, Pos (13,6)
 msgid ""
