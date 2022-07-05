@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
-"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language-Team: Luatsenpai_AowVN.org\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,7 +14,7 @@ msgstr "Đã vài tháng trôi qua kể từ ngày đó."
 
 #. ID 1, Page 1, Line 12, Pos (0,0)
 msgid "I found Rikana in town."
-msgstr "Tôi đã tìm thấy Rikana trong thị trấn"
+msgstr "Tôi đã tìm thấy Rikana trong thị trấn."
 
 #. ID 1, Page 1, Line 13, Pos (0,0)
 msgid ""

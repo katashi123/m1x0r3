@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
-"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language-Team: Luatsenpai_AowVN.org\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -80,7 +80,7 @@ msgstr ""
 
 #. ID 2, Page 1, Line 3, Pos (7,3)
 msgid "It looks like it's raining outside."
-msgstr "Có vẻ ngoài trời đang mưa"
+msgstr "Có vẻ ngoài trời đang mưa."
 
 #. ID 2, Page 1, Line 4, Pos (7,3)
 msgid ""
@@ -91,7 +91,7 @@ msgstr ""
 "đang phản chiếu trên cửa sổ."
 #. ID 2, Page 1, Line 6, Pos (7,3)
 msgid "...I think I might be pretty handsome."
-msgstr "...Tôi nghĩ là tôi khá đẹp trai"
+msgstr "...Tôi nghĩ là tôi khá đẹp trai."
 
 #. ID 3, Page 1, Line 3, Pos (7,5)
 msgid ""
@@ -129,7 +129,7 @@ msgstr "\"Ngài Kantarou\""
 #. ID 7, Page 1, Line 3, Pos (13,6)
 #. ID 7, Page 2, Line 3, Pos (13,6)
 msgid "It's a chest of drawers."
-msgstr "Đó là một ngăn kéo"
+msgstr "Đó là một cái tủ nhiều ngăn."
 
 #. ID 7, Page 1, Line 4, Pos (13,6)
 #. ID 7, Page 2, Line 4, Pos (13,6)
@@ -140,8 +140,8 @@ msgid ""
 "with it."
 msgstr ""
 "Nhìn kỹ hơn thì nhận ra là\n"
-"nó không chỉ đơn thuần là ngăn kéo.\n"
-"nó còn tích hợp cả tủ lạnh\n"
+"nó không chỉ đơn thuần là tủ nhiều\n"
+"ngăn. Nó còn tích hợp cả tủ lạnh.\"
 #. ID 7, Page 1, Line 8, Pos (13,6)
 #. ID 7, Page 2, Line 8, Pos (13,6)
 msgid ""
@@ -189,7 +189,7 @@ msgstr "...Giờ tôi cảm thấy rất kích thích."
 #. ID 8, Page 1, Line 3, Pos (14,6)
 #. ID 8, Page 2, Line 3, Pos (14,6)
 msgid "It's a closet."
-msgstr "Ngăn kéo tủ"
+msgstr "Tủ quần áo."
 
 #. ID 8, Page 1, Line 4, Pos (14,6)
 #. ID 8, Page 2, Line 4, Pos (14,6)
@@ -227,7 +227,7 @@ msgid ""
 "Someone really went out of their way\n"
 "for this prank."
 msgstr ""
-"Có vẻ ai đó đã ra tay\n"
+"Có vẻ ai đó đã bày ra trò này\n"
 "để chơi khăm."
 #. ID 8, Page 2, Line 19, Pos (14,6)
 msgid ""

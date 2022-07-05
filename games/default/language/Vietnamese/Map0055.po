@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
-"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language-Team: Luatsenpai_AowVN.org\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,7 +23,8 @@ msgid ""
 msgstr ""
 "Rikana\n"
 "\"Cho dù thế thì anh vẫn rất kinh tởm.\n"
-"Anh có thể đừng nhìn tôi với ánh mắt đó, được chứ?\""
+"Anh có thể đừng nhìn tôi với ánh mắt đó,\n"
+"được chứ?\""
 #. ID 1, Page 1, Line 13, Pos (0,0)
 #. Contains choice at line 3 (2 options)
 msgid ""
@@ -49,7 +50,7 @@ msgid ""
 msgstr ""
 "Rikana\n"
 "\"Hãy nghe tôi nói đây: Tôi sẽ không trả lại\n"
-"Bất kỳ thứ gì anh cho tôi. Sau khi...\n"
+"bất kỳ thứ gì anh cho tôi. Sau khi...\n"
 "anh đã đưa nó cho tôi!\""
 #. ID 1, Page 1, Line 31, Pos (0,0)
 msgid ""
@@ -77,7 +78,7 @@ msgid ""
 msgstr ""
 "Rikana\n"
 "\"Tôi chắc anh đang gặp khó khăn, nhưng\n"
-"mà tôi cũng thế à? Anh hiểu chứ?\""
+"mà tôi cũng thế mà? Anh hiểu chứ?\""
 #. ID 1, Page 1, Line 45, Pos (0,0)
 msgid ""
 "Rikana\n"
@@ -114,8 +115,8 @@ msgid ""
 "society is!' or something.\""
 msgstr ""
 "Rikana\n"
-"\"Tôi muốn nói với họ rằng, 'Đây là cách xã hội đối xử\n"
-"tệ bạc với bạn!' hay đại loại thế.\""
+"\"Tôi muốn nói với họ rằng, 'Đây là cách xã hội đối\n"
+"xử tệ bạc với bạn!' hay đại loại thế.\""
 #. ID 1, Page 1, Line 62, Pos (0,0)
 msgid ""
 "Rikana\n"
@@ -133,9 +134,9 @@ msgid ""
 "be tough for both of us, so let's do our best!\""
 msgstr ""
 "Rikana\n"
-"\"Kantarou... đúng không nhỉ? Anh là đàn ông, anh sẽ\n"
-"cảm thấy ổn dù đã không còn gì... Chà, nó sẽ\n"
-"rất khó cho cả hai ta, vậy nên chúng ta hãy cố hết mình!\""
+"\"Kantarou... đúng không nhỉ? Anh là đàn ông, anh\n"
+"sẽ cảm thấy ổn dù đã không còn gì...Chà, nó sẽ rất\n"
+"khó cho cả hai ta, nên chúng ta hãy cố hết mình!\""
 #. ID 1, Page 1, Line 72, Pos (0,0)
 msgid ""
 "Rikana\n"
@@ -149,33 +150,33 @@ msgstr "                 Rikana đã rời đi."
 
 #. ID 1, Page 1, Line 80, Pos (0,0)
 msgid "         I simply stood there, dumbfounded."
-msgstr "         Tôi chỉ đơn giản đứng đó chết lặng."
+msgstr "        Tôi chỉ đơn giản đứng đó chết lặng."
 
 #. ID 1, Page 1, Line 82, Pos (0,0)
 msgid ""
 " Even though she had said those horrible things...\n"
 " Even though she tricked me and stole my money..."
 msgstr ""
-" Dù cô ấy nói những lời kinh khủng đó...\n"
-" Dù cô ấy đã lừa tôi để lấy tiền của tôi..."
+"      Dù cô ấy nói những lời kinh khủng đó...\n"
+"    Dù cô ấy đã lừa tôi để lấy tiền của tôi..."
 #. ID 1, Page 1, Line 85, Pos (0,0)
 msgid ""
 "     All I could do was watch her from behind\n"
 "                as she walked away."
 msgstr ""
-"     Tất cả những gì tôi có thể làm là quan sát cô ấy\n"
-"                từ phía sau khi cô ấy rời đi."
+" Tất cả những gì tôi có thể làm là quan sát cô ấy\n"
+"           từ phía sau khi cô ấy rời đi."
 #. ID 1, Page 1, Line 88, Pos (0,0)
 msgid "                       I..."
-msgstr "                       Tôi..."
+msgstr "                      Tôi..."
 
 #. ID 1, Page 1, Line 90, Pos (0,0)
 msgid "                 I started walking."
-msgstr "                 Tôi bắt đầu bước đi."
+msgstr "               Tôi bắt đầu bước đi."
 
 #. ID 1, Page 1, Line 92, Pos (0,0)
 msgid "            I still couldn't believe it."
-msgstr "            Tôi vẫn không thể tin được điều đó."
+msgstr "        Tôi vẫn không thể tin được điều đó."
 
 #. ID 1, Page 1, Line 94, Pos (0,0)
 msgid ""
@@ -184,50 +185,50 @@ msgid ""
 "                    had left me?"
 msgstr ""
 "     Rikana có thực sự là người nhà tôi không\n"
-"        hay đơn giản chỉ đến lấy tiền gia đình tôi\n"
+"  hay đơn giản chỉ đến lấy tiền của gia đình tôi\n"
 "                    và rời đi?"
 #. ID 1, Page 1, Line 98, Pos (0,0)
 msgid "            I still believed in Rikana."
-msgstr "            Tôi vẫn tin tưởng vào Rikana."
+msgstr "           Tôi vẫn tin tưởng vào Rikana."
 
 #. ID 1, Page 1, Line 100, Pos (0,0)
 msgid "          ...I wanted to believe in her."
-msgstr "          ...Tôi muốn tin tưởng vào cô ấy."
+msgstr "         ...Tôi muốn tin tưởng vào cô ấy."
 
 #. ID 1, Page 1, Line 102, Pos (0,0)
 msgid ""
 "   Even though she would never come back to me.\n"
 " Even though she would never call me \"bro\" again."
 msgstr ""
-"   Kể cả cô ấy không bao giờ quay lại với tôi.\n"
-" Kể cả cô ấy không gọi tôi là \"anh hai\" nữa."
+"    Kể cả cô ấy không bao giờ quay lại với tôi."
+"   Kể cả cô ấy không gọi tôi là \"anh hai\" nữa."
 #. ID 1, Page 1, Line 105, Pos (0,0)
 msgid ""
 "    \"Don't just run forward without watching\n"
 "            where you're going, stupid!\n"
 "                 It's dangerous!\""
 msgstr ""
-"    \"Đừng chạy về phía trước mà không\n"
-"             nhìn đường chứ, đồ ngốc!\n"
-"                   Nguy hiểm lắm đấy!\""
+"      \"Đừng chạy về phía trước mà không\n"
+"          nhìn đường chứ, đồ ngốc!\n"
+"             Nguy hiểm lắm đấy!\""
 #. ID 1, Page 1, Line 109, Pos (0,0)
 msgid ""
 "            I felt as if she would just\n"
 "                 scold me like that."
 msgstr ""
-"            Tôi cảm thấy như cô ấy sẽ\n"
-"                   mắng tôi như vậy."
+"             Tôi cảm thấy như cô ấy sẽ\n"
+"                 mắng tôi như vậy."
 #. ID 1, Page 1, Line 113, Pos (0,0)
 msgid "          And I just kept running forward."
-msgstr "          Và tôi cứ tiếp tục chạy về phía trước."
+msgstr "      Và tôi cứ tiếp tục chạy về phía trước."
 
 #. ID 1, Page 1, Line 115, Pos (0,0)
 msgid "                 Then it happened."
-msgstr "                 Và chuyện gì tới cũng sẽ tới."
+msgstr "           Và chuyện gì tới cũng sẽ tới."
 
 #. ID 1, Page 1, Line 117, Pos (0,0)
 msgid "               I... got hit by a car."
-msgstr "               Tôi... đã bị chiếc xe tông phải."
+msgstr "         Tôi... đã bị chiếc xe tông phải."
 
 #. ID 1, Page 1, Line 120, Pos (0,0)
 msgid ""
@@ -235,8 +236,8 @@ msgid ""
 "                   I hear sirens."
 msgstr ""
 "\n"
-"                   Tôi nghe thấy tiếng còi hú."
+"            Tôi nghe thấy tiếng còi hú."
 #. ID 1, Page 1, Line 123, Pos (0,0)
 msgid "          TRUE END: \"Money is Everything\""
-msgstr "          TRUE END: \"Tiền Là Tất Cả\""
+msgstr "            TRUE END: \"Tiền Là Tất Cả\""
 

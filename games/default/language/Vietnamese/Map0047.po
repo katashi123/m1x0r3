@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
-"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language-Team: Luatsenpai_AowVN.org\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -45,7 +45,7 @@ msgstr ""
 "Không"
 #. ID 2, Page 1, Line 3, Pos (7,3)
 msgid "It looks like it's raining outside."
-msgstr "Có vẻ ngoài trời đang mưa"
+msgstr "Có vẻ ngoài trời đang mưa."
 
 #. ID 2, Page 1, Line 4, Pos (7,3)
 msgid ""
@@ -56,7 +56,7 @@ msgstr ""
 "đang phản chiếu trên cửa sổ."
 #. ID 2, Page 1, Line 6, Pos (7,3)
 msgid "...I think I might be pretty handsome."
-msgstr "...Tôi nghĩ là tôi khá đẹp trai"
+msgstr "...Tôi nghĩ là tôi khá đẹp trai."
 
 #. ID 3, Page 1, Line 3, Pos (7,5)
 msgid ""
@@ -94,7 +94,7 @@ msgstr "\"Ngài Kantarou\""
 #. ID 7, Page 1, Line 3, Pos (13,6)
 #. ID 7, Page 2, Line 3, Pos (13,6)
 msgid "It's a chest of drawers."
-msgstr "Đó là một ngăn kéo"
+msgstr "Đó là một cái tủ nhiều ngăn."
 
 #. ID 7, Page 1, Line 4, Pos (13,6)
 #. ID 7, Page 2, Line 4, Pos (13,6)
@@ -105,8 +105,8 @@ msgid ""
 "with it."
 msgstr ""
 "Nhìn kỹ hơn thì nhận ra là\n"
-"nó không chỉ đơn thuần là ngăn kéo.\n"
-"nó còn tích hợp cả tủ lạnh\n"
+"nó không chỉ đơn thuần là tủ nhiều\n"
+"ngăn. Nó còn tích hợp cả tủ lạnh.\"
 #. ID 7, Page 1, Line 8, Pos (13,6)
 #. ID 7, Page 2, Line 8, Pos (13,6)
 msgid ""
@@ -123,7 +123,7 @@ msgstr ""
 
 #. ID 7, Page 2, Line 11, Pos (13,6)
 msgid "A passbook and seal are also here."
-msgstr "Sổ tiết kiệm và con dấu cũng ở đây"
+msgstr "Sổ tiết kiệm và con dấu cũng ở đây."
 
 #. ID 7, Page 2, Line 14, Pos (13,6)
 msgid ""
@@ -138,8 +138,8 @@ msgid ""
 "if anyone else found out about this.\n"
 "I should keep this safe."
 msgstr ""
-"Nó là của mình sao? Nếu thế thì sẽ rất tệ\n"
-"nếu ai đó tìm thấy thứ này.\n"
+"Nó là của mình sao? Nếu thế thì sẽ\n"
+"rất tệ nếu ai đó tìm thấy thứ này.\n"
 "Mình nên giấu nó nơi an toàn."
 #. ID 7, Page 2, Line 20, Pos (13,6)
 msgid "You hid the passbook and seal."
@@ -148,7 +148,7 @@ msgstr "Bạn giấu sổ tiết kiệm và con dấu."
 #. ID 8, Page 1, Line 3, Pos (14,6)
 #. ID 8, Page 2, Line 3, Pos (14,6)
 msgid "It's a closet."
-msgstr "Ngăn kéo tủ"
+msgstr "Tủ quần áo."
 
 #. ID 8, Page 1, Line 4, Pos (14,6)
 #. ID 8, Page 2, Line 4, Pos (14,6)
@@ -162,7 +162,7 @@ msgstr ""
 "là của mình chăng?"
 #. ID 8, Page 2, Line 8, Pos (14,6)
 msgid "There's a note in the coat pocket."
-msgstr "Có mảnh ghi chú trong túi áo khoác"
+msgstr "Có mảnh ghi chú trong túi áo khoác."
 
 #. ID 8, Page 2, Line 9, Pos (14,6)
 #. Contains choice at line 2 (2 options)
@@ -203,7 +203,7 @@ msgid ""
 msgstr ""
 "Có rất nhiều thứ viết trên tờ giấy này,\n"
 "nó gợi nên sự tò mò của tôi... tôi đã\n"
-"viêt nó trước khi bị mất trí nhớ ư?"
+"viết nó trước khi bị mất trí nhớ ư?"
 #. ID 8, Page 2, Line 25, Pos (14,6)
 msgid "You got \"Someone's Note 2\"."
 msgstr "Đã nhận \"Ghi Chú Của Ai Đó 2\"."
@@ -233,7 +233,7 @@ msgid ""
 msgstr ""
 "\"Đồ ngốc đồ ngốc đồ ngốc đồ ngốc đồ ngốc đồ ngốc\n"
 "đồ ngốc đồ ngốc đồ ngốc đồ ngốc đồ ngốc đồ ngốc\n"
-"đồ ngốc đồ ngốc đồ ngốc đồ ngốc đồ ngốc đồ ngốc"
+"đồ ngốc đồ ngốc đồ ngốc đồ ngốc đồ ngốc đồ ngốc."
 #. ID 9, Page 2, Line 15, Pos (8,5)
 msgid ""
 "Why does this have to happen to me? Why do I\n"

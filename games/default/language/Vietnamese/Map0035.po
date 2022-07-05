@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
-"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language-Team: Luatsenpai_AowVN.org\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -169,10 +169,10 @@ msgid ""
 msgstr ""
 "Nagisa\n"
 "\"Kantarou ngốc! Kể cả anh nói không,\n"
-"Em cũng sẽ kéo anh theo!\""
+"em cũng sẽ kéo anh theo!\""
 #. ID 1, Page 1, Line 110, Pos (0,0)
 msgid "We had some fun shopping together."
-msgstr "Chúng tôi tận hưởng niềm vui mua sắm cùng nhau"
+msgstr "Chúng tôi tận hưởng niềm vui mua sắm cùng nhau."
 
 #. ID 1, Page 1, Line 112, Pos (0,0)
 msgid ""

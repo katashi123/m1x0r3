@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
-"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language-Team: Luatsenpai_AowVN.org\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,7 +14,7 @@ msgstr "Tôi đã đến \"nơi kỷ niệm\" của chúng tôi."
 
 #. ID 1, Page 1, Line 6, Pos (0,0)
 msgid "My room was... different than usual."
-msgstr "Phòng của tôi... trông khác so với mọi khi"
+msgstr "Phòng của tôi... trông khác so với mọi khi."
 
 #. ID 1, Page 1, Line 8, Pos (0,0)
 msgid ""
@@ -66,10 +66,11 @@ msgstr ""
 #. ID 1, Page 1, Line 47, Pos (0,0)
 #. Choice (2 options)
 msgid ""
+"Sanae's dead!\n"
+"Did you do it?"
+msgstr ""
 "Sanae đã chết!\n"
 "Là em làm sao?"
-msgstr ""
-
 #. ID 1, Page 1, Line 55, Pos (0,0)
 msgid ""
 "Nagisa\n"
@@ -114,7 +115,8 @@ msgid ""
 msgstr ""
 "Nagisa\n"
 "\"Anh đã rất hoảng sợ nhỉ? Nhưng giờ không sao rồi!\n"
-"Em chắc chắn cô ta không thể nói chuyện hay đi lại nữa!\""
+"Em chắc chắn cô ta không thể nói chuyện hay\n"
+"đi lại nữa!\""
 #. ID 1, Page 1, Line 82, Pos (0,0)
 msgid ""
 "Nagisa\n"
@@ -138,7 +140,8 @@ msgid ""
 "\"I know, right? I worked super hard! Of course\n"
 "I did good!\""
 msgstr ""
-"\"Biết ngay mà? Em cố gắng hết mìng! Tất nhiên\n"
+"Nagisa\n"
+"\"Biết ngay mà? Em cố gắng hết mình! Tất nhiên\n"
 "em phải làm tốt rồi!\""
 #. ID 1, Page 1, Line 100, Pos (0,0)
 msgid ""
@@ -215,7 +218,7 @@ msgstr ""
 "ở nơi này... không phải là Nagisa."
 #. ID 1, Page 1, Line 148, Pos (0,0)
 msgid "It was Sanae."
-msgstr "Mà chính là Sanae"
+msgstr "Mà chính là Sanae."
 
 #. ID 1, Page 1, Line 150, Pos (0,0)
 msgid ""
@@ -238,9 +241,9 @@ msgid ""
 "I don't know why she's told me all the things she\n"
 "has. It doesn't seem like she's simply lying."
 msgstr ""
-"Tôi không biết tại sao cô ấy nói những điều về chính\n"
-"bản thân cô ấy. Có vẻ như cô ấy không đơn thuần\n"
-"chỉ là nói dối"
+"Tôi không biết tại sao cô ấy nói những điều về\n"
+"chính bản thân mình. Có vẻ như cô ấy không\n"
+"đơn thuần chỉ là nói dối."
 #. ID 1, Page 1, Line 160, Pos (0,0)
 msgid ""
 "Was she trying to implant memories in my mind\n"

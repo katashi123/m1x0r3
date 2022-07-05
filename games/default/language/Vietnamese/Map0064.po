@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
-"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language-Team: Luatsenpai_AowVN.org\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -10,7 +10,7 @@ msgstr ""
 
 #. ID 1, Page 1, Line 5, Pos (0,0)
 msgid "                 I lunged at Ayano."
-msgstr ""
+msgstr "                Tôi lao vào Ayano."
 
 #. ID 1, Page 1, Line 9, Pos (0,0)
 msgid ""
@@ -23,33 +23,33 @@ msgid ""
 "         I had aimed well. The knife flew\n"
 "                 out of her hand."
 msgstr ""
-"         Tôi đã nhắm chuẩn. Con dao đã\n"
-"                    tuột khỏi tay cô ấy."
+"           Tôi đã nhắm chuẩn. Con dao đã\n"
+"               tuột khỏi tay cô ấy."
 #. ID 1, Page 1, Line 17, Pos (0,0)
 msgid ""
 "             The now-disarmed Ayano was\n"
 "                helpless against me."
 msgstr ""
-"             Ayano hiện không còn vũ khí\n"
-"           và không thể phản kháng lại tôi."
+"            Ayano hiện không còn vũ khí\n"
+"         và không thể phản kháng lại tôi."
 #. ID 1, Page 1, Line 19, Pos (0,0)
 msgid ""
 "    Ayano panicked and tried to grab the knife,\n"
 "        but I pulled her back by the hair."
 msgstr ""
-"    Ayano hoảng sợ và cố lấy lại con dao,\n"
+"       Ayano hoảng sợ và cố lấy lại con dao,\n"
 "            nhưng tôi đã túm tóc cô ấy."
 #. ID 1, Page 1, Line 22, Pos (0,0)
 msgid "                    And then..."
-msgstr "                    Và sau đó..."
+msgstr "                   Và sau đó..."
 
 #. ID 1, Page 1, Line 24, Pos (0,0)
 msgid ""
 "        I wrapped my hands around her neck\n"
 "          and squeezed with all my might."
 msgstr ""
-"        Tôi vòng tay quanh cổ cô ấy\n"
-"         và siết chặt hết mức có thể."
+"            Tôi vòng tay quanh cổ cô ấy\n"
+"            và siết chặt hết mức có thể."
 #. ID 1, Page 1, Line 29, Pos (0,0)
 msgid ""
 "Ayano\n"
@@ -67,100 +67,100 @@ msgid ""
 "        Ayano was looking at me with a face\n"
 "         that was pleading for me to stop."
 msgstr ""
-"        Ayano đang nhìn tôi với khuôn mặt\n"
-"            như đang khẩn cầu tôi dừng lại."
+"         Ayano đang nhìn tôi với khuôn mặt\n"
+"          như đang khẩn cầu tôi dừng lại."
 #. ID 1, Page 1, Line 39, Pos (0,0)
 msgid "              I didn't let up at all."
-msgstr "              Tôi không từ bỏ."
+msgstr "                 Tôi không từ bỏ."
 
 #. ID 1, Page 1, Line 41, Pos (0,0)
 msgid "      I was definitely... going to kill her!"
-msgstr "      Tôi chắc chắn... sẽ giết cô ta!"
+msgstr "          Tôi chắc chắn... sẽ giết cô ta!"
 
 #. ID 1, Page 1, Line 43, Pos (0,0)
 msgid ""
 "      Finally, after I felt her body go limp,\n"
 "             I released my grip on her."
 msgstr ""
-"      Cuối cùng, sau khi tôi thấy cơ thể cô ấy mềm nhũn,\n"
-"                      Tôi đã thả tay khỏi cô ấy."
+"Cuối cùng, sau khi tôi thấy cơ thể cô ấy mềm nhũn,\n"
+"            Tôi đã thả tay khỏi cô ấy."
 #. ID 1, Page 1, Line 45, Pos (0,0)
 msgid ""
 "                ...It wasn't enough.\n"
 "                She wasn't dead yet."
 msgstr ""
-"                ...Vẫn chưa đủ.\n"
-"             Cô ấy vẫn chưa chết."
+"                  ...Vẫn chưa đủ.\n"
+"                Cô ấy vẫn chưa chết."
 #. ID 1, Page 1, Line 47, Pos (0,0)
 msgid "    So I grabbed a nearby trophy made of metal."
-msgstr "Vì thế tôi đã lấy cái cúp bằng kim loại gần đó."
+msgstr "  Vì thế tôi đã lấy cái cúp bằng kim loại gần đó."
 
 #. ID 1, Page 1, Line 49, Pos (0,0)
 msgid "          And I slammed it into her head."
-msgstr "          Và tôi đập nó vào đầu cô ấy"
+msgstr "           Và tôi đập nó vào đầu cô ấy."
 
 #. ID 1, Page 1, Line 51, Pos (0,0)
 msgid "        One time. Two times. Three times..."
-msgstr "        Một lần. Hai lần. Ba lần..."
+msgstr "            Một lần. Hai lần. Ba lần..."
 
 #. ID 1, Page 1, Line 53, Pos (0,0)
 msgid ""
 "        For a while, all I could think about\n"
 "              was bashing her head in."
 msgstr ""
-"        Trong một lúc, những gì tôi có thể nghĩ\n"
-"              là phải đập vào đầu cô ấy."
+"      Trong một lúc, những gì tôi có thể nghĩ\n"
+"            là phải đập vào đầu cô ấy."
 #. ID 1, Page 1, Line 56, Pos (0,0)
 msgid "                       ..."
 msgstr ""
 
 #. ID 1, Page 1, Line 58, Pos (0,0)
 msgid "       That was just about enough, I thought."
-msgstr "       Tôi nghĩ, như vậy là đủ rồi."
+msgstr "           Tôi nghĩ, như vậy là đủ rồi."
 
 #. ID 1, Page 1, Line 59, Pos (0,0)
 msgid ""
 "     Ayano had stopped breathing a while back.\n"
 "                 I had killed her."
 msgstr ""
-"     Ayano đã ngưng thở được một lúc rồi.\n"
-"                      Tôi đã giết cô ấy."
+"       Ayano đã ngưng thở được một lúc rồi.\n"
+"                Tôi đã giết cô ấy."
 #. ID 1, Page 1, Line 61, Pos (0,0)
 msgid ""
 "     I killed her because she tried to kill me.\n"
 "      It was nothing more than self-defense."
 msgstr ""
-"     Tôi giết cô ấy bởi vì cô ấy đang cố giết tôi.\n"
-"Nó không có gì khác ngoài phòng vệ chính đáng."
+"   Tôi giết cô ấy bởi vì cô ấy đang cố giết tôi.\n"
+"  Nó không có gì khác ngoài phòng vệ chính đáng."
 #. ID 1, Page 1, Line 64, Pos (0,0)
 msgid "            A just punishment, I thought."
-msgstr "     Tôi nghĩ đó là một sự trừng phạt thích đáng."
+msgstr "   Tôi nghĩ đó là một sự trừng phạt thích đáng."
 
 #. ID 1, Page 1, Line 69, Pos (0,0)
 msgid "          How long had passed since then?"
-msgstr "          Đã trải qua bao lâu kể từ ngày đó?"
+msgstr "        Đã trải qua bao lâu kể từ ngày đó?"
 
 #. ID 1, Page 1, Line 71, Pos (0,0)
 msgid "      Ayano's killer still hasn't been found."
-msgstr "      Hung thủ giết Ayano vẫn chưa được tìm thấy."
+msgstr "    Hung thủ giết Ayano vẫn chưa được tìm thấy."
 
 #. ID 1, Page 1, Line 73, Pos (0,0)
 msgid ""
 "            Who was it that killed her?\n"
 "              ...No one knew but me."
 msgstr ""
-"            Ai đã giết cô ấy?\n"
-"      ...Không ai biết trừ tôi."
+"                 Ai đã giết cô ấy?\n"
+"             ...Không ai biết trừ tôi."
 #. ID 1, Page 1, Line 76, Pos (0,0)
 msgid ""
 "          I had disposed of the body well.\n"
 "   She probably hadn't even been found by anyone."
 msgstr ""
-"          Tôi đã xử lý thi thể rất kỹ.\n"
-"   Sẽ không ai có thể tìm ra cô ấy."
+"           Tôi đã xử lý thi thể rất kỹ.\n"
+"         Sẽ không ai có thể tìm ra cô ấy."
 #. ID 1, Page 1, Line 79, Pos (0,0)
 msgid "     ...Today is the day I leave the hospital."
-msgstr "    ...Hôm nay là ngày tôi ra viện."
+msgstr "          ...Hôm nay là ngày tôi ra viện."
 
 #. ID 1, Page 1, Line 81, Pos (0,0)
 msgid ""
@@ -168,10 +168,10 @@ msgid ""
 "             walking down the hallway."
 msgstr ""
 "         Tôi gói gém đồ đạc và bắt đầu\n"
-"                  đi bộ dọc hành lang."
+"               đi bộ dọc hành lang."
 #. ID 1, Page 1, Line 84, Pos (0,0)
 msgid "        When I saw it, I didn't believe it."
-msgstr "  Khi tôi nhìn thấy nó, tôi đã không thể tin được."
+msgstr " Khi tôi nhìn thấy nó, tôi đã không thể tin được."
 
 #. ID 1, Page 1, Line 86, Pos (0,0)
 msgid ""
@@ -179,36 +179,36 @@ msgid ""
 "       there was a face I had seen before."
 msgstr ""
 "      Trong một căn phòng với cánh cửa mở hờ,\n"
-"       có một khuôn mặt tôi từng thấy trước đây."
+"     có một khuôn mặt tôi từng thấy trước đây."
 #. ID 1, Page 1, Line 89, Pos (0,0)
 msgid ""
 "                  Lying in bed...\n"
 "                    was Ayano."
 msgstr ""
-"                  Người đang nằm trên giường...\n"
-"                              chính là Ayano."
+"           Người đang nằm trên giường...\n"
+"                  chính là Ayano."
 #. ID 1, Page 1, Line 92, Pos (0,0)
 msgid ""
 "           She was covered in injuries.\n"
 "    Most of her body was wrapped up in bandages."
 msgstr ""
-"           Cô ấy đầy thương tích.\n"
-"  Hầu hết cơ thể cô ấy đều quấn băng."
+"              Cô ấy đầy thương tích.\n"
+"        Hầu hết cơ thể cô ấy đều quấn băng."
 #. ID 1, Page 1, Line 95, Pos (0,0)
 msgid "       ...I'm sure I had given them to her."
-msgstr "  ...Tôi chắc chắn tôi là người đã gây ra việc đó."
+msgstr " ...Tôi chắc chắn tôi là người đã gây ra việc đó."
 
 #. ID 1, Page 1, Line 97, Pos (0,0)
 msgid "    Ayano's vacant eyes shifted to look at me."
-msgstr "  Đôi mắt trống rỗng của Ayano nhìn sang tôi."
+msgstr "    Đôi mắt trống rỗng của Ayano nhìn sang tôi."
 
 #. ID 1, Page 1, Line 99, Pos (0,0)
 msgid ""
 "        I took a step back, startled, but\n"
 "        there was no reaction from Ayano."
 msgstr ""
-"        Tôi giật mình, lùi lai một bước, nhưng\n"
-"        Ayano không có phản ứng nào."
+"    Tôi giật mình, lùi lại một bước, nhưng\n"
+"           Ayano không có phản ứng nào."
 #. ID 1, Page 1, Line 102, Pos (0,0)
 msgid "      With a smile on her face, she asked..."
 msgstr "      Với nụ cười trên gương mặt, cô ấy hỏi..."
@@ -222,5 +222,5 @@ msgstr ""
 "\"Anh... là ai?\""
 #. ID 1, Page 1, Line 110, Pos (0,0)
 msgid "                BAD END: \"Amnesia\""
-msgstr "                BAD END: \"Mất Trí Nhớ\""
+msgstr "              BAD END: \"Mất Trí Nhớ\""
 

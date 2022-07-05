@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
-"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language-Team: Luatsenpai_AowVN.org\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -161,7 +161,8 @@ msgid ""
 "\"You know, I'm thinking of just ending it all.\""
 msgstr ""
 "Nagisa\n"
-"\"Anh biết không, em đang nghĩ đến việc sẽ kết thúc tất cả.\""
+"\"Anh biết không, em đang nghĩ đến việc sẽ\n"
+"kết thúc tất cả.\""
 #. ID 1, Page 1, Line 73, Pos (0,0)
 msgid ""
 "Nagisa\n"
@@ -197,7 +198,7 @@ msgid ""
 "Nagisa\n"
 "\"I want you... to hug me.\""
 msgstr ""
-
+"\"Em muốn anh... ôm em.\""
 #. ID 1, Page 1, Line 92, Pos (0,0)
 #. Choice (2 options, embedded in a message)
 msgid ""
@@ -208,22 +209,22 @@ msgstr ""
 "Chỉ một chút thôi nhé."
 #. ID 1, Page 1, Line 102, Pos (0,0)
 msgid "        I put both of my arms around Nagisa."
-msgstr "        Tôi dang tay ôm trọn Nagisa."
+msgstr "           Tôi dang tay ôm trọn Nagisa."
 
 #. ID 1, Page 1, Line 104, Pos (0,0)
 msgid ""
 "       I felt Nagisa's gentle warmth, and...\n"
 "               a feeling of unease."
 msgstr ""
-"       Tôi cảm nhận hơi ấm dịu dàng của Nagisa và...\n"
-"               cảm giác không thoải mái."
+"  Tôi cảm nhận hơi ấm dịu dàng của Nagisa và...\n"
+"            cảm giác không thoải mái."
 #. ID 1, Page 1, Line 107, Pos (0,0)
 msgid "         By that time, it was already over."
-msgstr  "         Đến lúc đó, mọi chuyện đã đến hồi kết."
+msgstr  "      Vào lúc mà mọi chuyện sắp tới hồi kết."
 
 #. ID 1, Page 1, Line 109, Pos (0,0)
 msgid "     A knife had been stabbed into my stomach."
-msgstr "     Một con dao đã đâm vào bụng tôi."
+msgstr "        Một con dao đã đâm vào bụng tôi."
 
 #. ID 1, Page 1, Line 113, Pos (0,0)
 msgid ""
@@ -241,11 +242,11 @@ msgstr ""
 "\"Này, anh sẽ ở cạnh em... mãi mãi nhé?\""
 #. ID 1, Page 1, Line 122, Pos (0,0)
 msgid "      ...This might have been for the best."
-msgstr "      ...Như vậy có lẽ sẽ tốt hơn."
+msgstr "            ...Như vậy có lẽ sẽ tốt hơn."
 
 #. ID 1, Page 1, Line 124, Pos (0,0)
 msgid "      I deserved the punishment I received."
-msgstr "      Tôi xứng đáng bị trừng phạt."
+msgstr "           Tôi xứng đáng bị trừng phạt."
 
 #. ID 1, Page 1, Line 128, Pos (0,0)
 msgid ""
@@ -287,7 +288,7 @@ msgid ""
 "\"That's right... I'd become God.\""
 msgstr ""
 "Nagisa\n"
-"\"Đúng vậy... em sẽ trở thành chúa.\""
+"\"Đúng vậy... em sẽ trở thành Chúa.\""
 #. ID 1, Page 1, Line 148, Pos (0,0)
 msgid ""
 "Nagisa\n"
@@ -329,14 +330,16 @@ msgid ""
 "\"No more fighting. No more pain.\""
 msgstr ""
 "Nagisa\n"
-"\"Không còn phải đấu tranh. Không còn phải khổ đau.\""
+"\"Không còn phải đấu tranh.\n"
+"Không còn phải khổ đau.\""
 #. ID 1, Page 1, Line 172, Pos (0,0)
 msgid ""
 "Nagisa\n"
 "\"No more bullying. No more lonely people.\""
 msgstr ""
 "Nagisa\n"
-"\"Không còn ai bị bắt nạt. Không còn ai phải cô đơn.\""
+"\"Không còn ai bị bắt nạt.\n"
+"Không còn ai phải cô đơn.\""
 #. ID 1, Page 1, Line 176, Pos (0,0)
 msgid ""
 "Nagisa\n"
@@ -346,7 +349,7 @@ msgstr ""
 "\"Em sẽ cứu mọi người.\""
 #. ID 1, Page 1, Line 182, Pos (0,0)
 msgid "           My consciousness was fading."
-msgstr "           Ý thức của tôi dần yếu đi."
+msgstr "             Ý thức của tôi dần yếu đi."
 
 #. ID 1, Page 1, Line 184, Pos (0,0)
 msgid ""
@@ -354,26 +357,26 @@ msgid ""
 "              I couldn't see anymore."
 msgstr ""
 "       Tầm nhìn của tôi dần trỏ nên mờ mịt.\n"
-"              Tôi không thể thấy gì nữa."
+"            Tôi không thể thấy gì nữa."
 #. ID 1, Page 1, Line 187, Pos (0,0)
 msgid "         The dark silence was killing me."
-msgstr "         Màn đêm tĩnh lặng đang bao trùm lấy tôi."
+msgstr "     Màn đêm tĩnh lặng đang bao trùm lấy tôi."
 
 #. ID 1, Page 1, Line 189, Pos (0,0)
 msgid "           I guess... I'm going to die."
-msgstr "           Tôi nghĩ...tôi sắp chết rồi"
+msgstr "             Tôi nghĩ...tôi sắp chết rồi."
 
 #. ID 1, Page 1, Line 191, Pos (0,0)
 msgid "          I wondered where Nagisa went."
-msgstr "          Tôi tự hỏi Nagisa đã đi đâu."
+msgstr "            Tôi tự hỏi Nagisa đã đi đâu."
 
 #. ID 1, Page 1, Line 193, Pos (0,0)
 msgid "        I couldn't hear her voice anymore."
-msgstr "Tôi không thể nghe thấy giọng nói của cô ấy nữa."
+msgstr " Tôi không thể nghe thấy giọng nói của cô ấy nữa."
 
 #. ID 1, Page 1, Line 195, Pos (0,0)
 msgid "               I want... to see her."
-msgstr "               Tôi muốn... nhìn thấy cô ấy."
+msgstr "            Tôi muốn... nhìn thấy cô ấy."
 
 #. ID 1, Page 1, Line 197, Pos (0,0)
 msgid "                 It's pitch black."
@@ -381,7 +384,7 @@ msgstr "                 Nơi này tối quá."
 
 #. ID 1, Page 1, Line 199, Pos (0,0)
 msgid "                 ...I'm lonely."
-msgstr "                 ...Tôi cô đơn quá"
+msgstr "                ...Tôi cô đơn quá."
 
 #. ID 1, Page 1, Line 202, Pos (0,0)
 msgid ""
@@ -389,8 +392,8 @@ msgid ""
 "                   I hear sirens."
 msgstr ""
 "\n"
-"                   Tôi nghe thấy tiếng còi hú."
+"            Tôi nghe thấy tiếng còi hú."
 #. ID 1, Page 1, Line 205, Pos (0,0)
 msgid "               TRUE END: \"Darkness\""
-msgstr "               TRUE END: \"Màn đêm\""
+msgstr "                TRUE END: \"Màn đêm\""
 
